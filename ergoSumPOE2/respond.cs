@@ -309,55 +309,54 @@ namespace ergoSumPOE2
 
 
 
-            add_answers.Add("greeting i'm doing well, thanks for asking! how are you doing today ?");
-            add_answers.Add("greeting i'm great today, thanks for asking! how can i help you today ?");
-            add_answers.Add("greeting doing good! hope you are also doing well today ?");
+            add_answers.Add("greeting i'm doing really well today, thanks so much for asking! it's always nice to chat with someone friendly. how are you doing today ?");
+            add_answers.Add("greeting i'm feeling great today and ready to help you with anything you need. thanks for checking in! how has your day been so far ?");
+            add_answers.Add("greeting i'm doing good, thank you! i hope your day is going well too. feel free to ask me anything whenever you're ready ?");
 
 
-            add_answers.Add("purpose my purpose is to educate you on how to stay safe online and guide your cybersecurity questions.");
-            add_answers.Add("purpose i help users understand online safety and digital protection.");
-            add_answers.Add("purpose i assist with cybersecurity awareness and safety guidance.");
+            add_answers.Add("purpose my purpose is to help educate people about cybersecurity and online safety in a simple and easy-to-understand way. i can guide you with tips, advice and answers to help you stay safer online.");
+            add_answers.Add("purpose i am here to help users learn more about digital safety, cybersecurity threats and ways to protect their personal information while using the internet and technology.");
+            add_answers.Add("purpose my goal is to assist people with cybersecurity awareness by explaining important topics like scams, hacking, passwords and online protection in a friendly and helpful manner.");
 
 
-            add_answers.Add("cybersecurity cybersecurity is about protecting systems and networks from digital threats.");
-            add_answers.Add("cybersecurity it involves protecting devices and online accounts from attacks.");
-            add_answers.Add("cybersecurity it focuses on securing digital information and systems.");
+            add_answers.Add("cybersecurity cybersecurity is the practice of protecting computers, networks, devices and online accounts from hackers, viruses and other digital threats that can steal or damage information.");
+            add_answers.Add("cybersecurity cybersecurity focuses on keeping digital systems and personal information safe from cybercriminals. it includes protecting passwords, networks, software and sensitive data from attacks.");
+            add_answers.Add("cybersecurity cybersecurity is all about staying safe in the digital world by defending devices, online accounts and networks against harmful activities like hacking, scams and malware.");
 
 
-            add_answers.Add("phishing phishing is a scam where attackers pretend to be trusted sources to steal information.");
-            add_answers.Add("phishing it uses fake messages or websites to trick users into revealing sensitive data.");
-            add_answers.Add("phishing attackers use deception to make users believe they are legitimate.");
+            add_answers.Add("phishing phishing is a type of online scam where attackers pretend to be trusted companies or people in order to trick users into sharing passwords, banking details or other sensitive information.");
+            add_answers.Add("phishing phishing attacks usually happen through fake emails, messages or websites that look real. the goal is to fool users into revealing personal or financial information.");
+            add_answers.Add("phishing phishing is a cybercrime technique where scammers use deception and fake communication to make users believe they are trustworthy so they can steal important information.");
 
 
-            add_answers.Add("firewall a firewall controls network traffic based on security rules.");
-            add_answers.Add("firewall it helps block unwanted access to your device or network.");
-            add_answers.Add("firewall it acts as a protective barrier between trusted and untrusted networks.");
+            add_answers.Add("firewall a firewall is a security system that monitors and controls incoming and outgoing network traffic based on safety rules to help protect devices and networks from threats.");
+            add_answers.Add("firewall a firewall acts like a protective barrier between your device and the internet by blocking suspicious or unauthorized access that could be dangerous.");
+            add_answers.Add("firewall firewalls help improve cybersecurity by filtering harmful traffic and preventing hackers or malicious software from gaining access to your computer or network.");
 
 
-            add_answers.Add("password a password is used to secure access to your accounts or devices.");
-            add_answers.Add("password it should be strong, long and not easy to guess.");
-            add_answers.Add("password avoid using personal details when creating one.");
+            add_answers.Add("password a password is a secret combination of characters used to protect your online accounts and devices from unauthorized access. strong passwords are very important for online safety.");
+            add_answers.Add("password a good password should be long, unique and difficult to guess. using a mix of letters, numbers and symbols can make your accounts much more secure.");
+            add_answers.Add("password passwords help keep your personal information safe online. avoid using simple words, birthdays or personal details because they are easier for hackers to guess.");
 
 
-            add_answers.Add("hacked account immediately secure your account and log out of all devices.");
-            add_answers.Add("hacked account contact support if your account has been compromised.");
-            add_answers.Add("hacked account enable extra security like two-factor authentication.");
+            add_answers.Add("hacked account if you think your account has been hacked, you should immediately change your password, log out of all devices and review your recent account activity for anything suspicious.");
+            add_answers.Add("hacked account a compromised account can be dangerous, so it is important to contact the platform support team as soon as possible and enable extra security features like two-factor authentication.");
+            add_answers.Add("hacked account if your account has been hacked, act quickly by securing your login details, checking for unusual activity and updating your recovery information to prevent further damage.");
 
 
-            add_answers.Add("fraud contact your bank immediately if fraud is detected.");
-            add_answers.Add("fraud report suspicious financial activity to the authorities.");
-            add_answers.Add("fraud monitor your accounts for unusual activity.");
+            add_answers.Add("fraud if you notice signs of fraud or suspicious financial activity, contact your bank or service provider immediately so they can help secure your account and investigate the issue.");
+            add_answers.Add("fraud fraud involves dishonest activities used to steal money or sensitive information. always monitor your accounts regularly and report anything unusual as soon as possible.");
+            add_answers.Add("fraud protecting yourself from fraud includes being careful with suspicious messages, avoiding unknown links and checking your financial accounts for unauthorized transactions.");
 
 
-            add_answers.Add("malicious chatbot malicious bots often create urgency to trick users.");
-            add_answers.Add("malicious chatbot fake chatbots may ask for sensitive information.");
-            add_answers.Add("malicious chatbot be cautious if a bot pressures you for personal data.");
+            add_answers.Add("malicious chatbot malicious chatbots are designed to trick or manipulate users by pretending to be helpful while secretly trying to steal personal information or spread scams.");
+            add_answers.Add("malicious chatbot fake or malicious chatbots may create a sense of urgency or pressure users into giving away passwords, banking information or other sensitive details.");
+            add_answers.Add("malicious chatbot when interacting with chatbots online, always be cautious if the bot asks for personal information, behaves suspiciously or tries to rush you into making decisions.");
 
 
-            add_answers.Add("vpn a vpn helps protect your privacy on public wi-fi.");
-            add_answers.Add("vpn it encrypts your internet traffic for safety.");
-            add_answers.Add("vpn it improves security when using public networks.");
-
+            add_answers.Add("vpn a vpn, also known as a virtual private network, helps protect your privacy and security online by encrypting your internet connection, especially when using public wi-fi.");
+            add_answers.Add("vpn using a vpn can make your online activity more secure because it hides your internet traffic from hackers, cybercriminals and other people who may try to spy on your connection.");
+            add_answers.Add("vpn a vpn improves online safety by creating a secure and private connection between your device and the internet, helping protect your information while browsing online.");
 
 
 
