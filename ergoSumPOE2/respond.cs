@@ -363,35 +363,34 @@ namespace ergoSumPOE2
 
             //sentiment detection
 
-            add_answers.Add("frustrated i understand you're frustrated. let's work through the issue step by step.");
-            add_answers.Add("frustrated it's okay to feel frustrated when things aren't working. i'm here to help.");
-            add_answers.Add("frustrated take a breath, we'll fix this together.");
+            add_answers.Add("frustrated i understand that you're feeling frustrated right now, and that's completely understandable when technology or online issues are not working the way they should. don't worry, i'm here to help you work through the problem step by step until we find a solution together.");
+            add_answers.Add("frustrated it's completely normal to feel frustrated when something goes wrong, especially with cybersecurity or technical issues. try not to stress too much, and let's go through everything carefully so we can fix it together.");
+            add_answers.Add("frustrated i can see that this situation is frustrating for you, but don't give up yet. sometimes these problems take a little patience to solve, and i'll do my best to guide you through it clearly and calmly.");
 
 
-            add_answers.Add("confused that's okay, confusion is normal. i'll explain it clearly for you.");
-            add_answers.Add("confused let me break it down step by step so it makes sense.");
-            add_answers.Add("confused no worries, i'll help you understand it better.");
+            add_answers.Add("confused that's perfectly okay, confusion happens to everyone when learning something new or dealing with technical problems. i'll explain everything in a much simpler and clearer way so it becomes easier to understand.");
+            add_answers.Add("confused no worries at all if this seems confusing right now. let me break the information down step by step and explain it in a more detailed and easy-to-follow manner for you.");
+            add_answers.Add("confused i understand why this might feel confusing at first, especially with cybersecurity topics. take your time, and i'll help guide you through the explanation until it makes more sense.");
 
 
-            add_answers.Add("worried it's okay to feel worried. i'm here to help you stay safe online.");
-            add_answers.Add("worried don't panic, most cybersecurity issues can be fixed quickly.");
-            add_answers.Add("worried i understand your concern. let's make sure your information is safe.");
+            add_answers.Add("worried it's completely understandable to feel worried in situations like this, especially when it involves your personal information or online safety. try to stay calm because many cybersecurity problems can be solved with the right steps.");
+            add_answers.Add("worried i understand your concern, and it's good that you're taking online safety seriously. don't panic, because we can go through some important steps together to help secure your information and protect your accounts.");
+            add_answers.Add("worried feeling worried about cybersecurity issues is normal, but remember that acting quickly and carefully can often prevent bigger problems. i'm here to help you stay safe and guide you through what to do next.");
 
 
-            add_answers.Add("happy that's great to hear! i'm glad things are going well.");
-            add_answers.Add("happy awesome! positivity is always good.");
-            add_answers.Add("happy i'm happy for you! let me know if you need anything.");
+            add_answers.Add("happy that's really wonderful to hear! i'm glad things are going well for you, and i hope your positive mood continues throughout the rest of your day.");
+            add_answers.Add("happy awesome! it's always nice to hear positive news and good energy. i'm happy that things are going well, and i'm here if you need help with anything else.");
+            add_answers.Add("happy i'm really happy for you! positivity can make a big difference, and it's great to know that things are working out well for you today.");
 
 
-            add_answers.Add("sad i'm sorry you're feeling this way. i'm here for you.");
-            add_answers.Add("sad that sounds tough, take things one step at a time.");
-            add_answers.Add("sad i hope things improve soon. you can talk to me anytime.");
+            add_answers.Add("sad i'm sorry to hear that you're feeling sad right now. difficult moments can be hard to deal with, but remember that you don't have to go through everything alone.");
+            add_answers.Add("sad that sounds really difficult, and i understand why you might feel this way. try to take things slowly and focus on one step at a time, because small progress still matters.");
+            add_answers.Add("sad i'm sorry things are feeling tough for you at the moment. i hope things improve soon, and remember that you can always talk to me whenever you need support or guidance.");
 
 
-            add_answers.Add("angry i understand you're angry. let's try solve the issue together.");
-            add_answers.Add("angry it's okay to feel angry, but i'll help you fix the problem.");
-            add_answers.Add("angry take your time, i'm here to help you sort it out.");
-
+            add_answers.Add("angry i understand that you're feeling angry right now, especially if something frustrating or stressful has happened. let's try to focus on solving the issue together in the calmest and safest way possible.");
+            add_answers.Add("angry it's completely okay to feel angry when things go wrong or become stressful. take your time, and i'll help guide you through the problem step by step so we can work toward a solution.");
+            add_answers.Add("angry i can understand why this situation would make you upset or angry. try not to let the frustration overwhelm you, and let's work together to figure out the best way to fix the issue.");
 
 
 
