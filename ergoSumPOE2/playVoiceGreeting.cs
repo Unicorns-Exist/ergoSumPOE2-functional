@@ -16,12 +16,12 @@ namespace ergoSumPOE2
         {
             try
             {
-                string auto_path = AppDomain.CurrentDomain.BaseDirectory.Replace(@"\bin\Debug\", @"\greet.wav");
+                string auto_path = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "greet.wav");
 
                 // create an instance for the soundPlayer class
                 SoundPlayer greetMe = new SoundPlayer(auto_path);
 
-                // play ssound
+                // play sound
                 greetMe.Play();
             }
             catch (Exception ex)
