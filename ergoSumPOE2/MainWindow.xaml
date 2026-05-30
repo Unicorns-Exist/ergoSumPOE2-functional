@@ -6,9 +6,31 @@
         xmlns:local="clr-namespace:ergoSumPOE2"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
- 
 
-        <Grid>
+
+    <Window.Resources>
+        <!-- Simple Button Style -->
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#007ACC"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontFamily" Value="Arial Rounded MT Bold"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Width" Value="200"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#005A9E"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="#003F6B"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    
+    <Grid>
 
             <!-- 
             HOME GRID
@@ -17,7 +39,7 @@
             and a navigation button to proceed to the next section.
             Currently hidden by default.
         -->
-            <Grid x:Name="home_grid" Visibility="Visible">
+            <Grid  Background="AliceBlue" x:Name="home_grid" Visibility="Visible">
 
                 <!-- Logo -->
                 <Image 
